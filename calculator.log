@@ -1,0 +1,12 @@
+2026-04-03 12:01:43,264 - ERROR - division by zero
+2026-04-03 12:01:43,265 - ERROR - Error is happened in devide function at 15 line code
+2026-04-03 12:01:43,265 - ERROR - division by zero
+2026-04-03 12:01:43,266 - ERROR - Error is happened in devide function at 15 line code
+2026-04-03 12:01:43,266 - ERROR - unsupported operand type(s) for /: 'int' and 'str'
+2026-04-03 12:01:43,266 - ERROR - Error is happened in devide function at 15 line code
+2026-04-03 12:06:21,134 - ERROR - division by zero
+2026-04-03 12:06:21,134 - ERROR - value for a is 10 and b is 0
+2026-04-03 12:06:21,134 - ERROR - division by zero
+2026-04-03 12:06:21,154 - ERROR - value for a is 0 and b is 0
+2026-04-03 12:06:21,154 - ERROR - unsupported operand type(s) for /: 'int' and 'str'
+2026-04-03 12:06:21,154 - ERROR - value for a is 5 and b is Hello
